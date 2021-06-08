@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/.externalNativeBuild
+/proj.android
+/proj.ios_mac
+/proj.win32
